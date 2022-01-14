@@ -1,4 +1,4 @@
-Simple spell check on Indian names. Can be used to sanitise database entries.
+Simple spell check on Indian names. Useful for sanitising database entries.
 
 To use:
     >> python3.6 test.py input/all_names.csv
